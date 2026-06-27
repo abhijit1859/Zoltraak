@@ -1,0 +1,16 @@
+# Binaries
+/zoltraak
+
+# Ignore all markdown files by default
+*.md
+
+# Exclude specific files from being ignored
+!README.md
+!zoltraak_architecture_blueprint.md
+
+# IDEs and OS files
+.idea/
+.vscode/
+*.swp
+.DS_Store
+Thumbs.db
